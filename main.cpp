@@ -1,7 +1,7 @@
 #include <iostream>
-#include "Simulator.cpp"
+#include "Simulator.h"
 #include <cmath>
-#include <vector>
+
 
 const int symulacje =2000;
 

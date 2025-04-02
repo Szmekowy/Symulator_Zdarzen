@@ -2,7 +2,7 @@
 #include "Simulator.h"
 #include <random>
 #include <queue>
-#include "Event.cpp"
+#include "Event.h"
 
 Simulator::Simulator()
     : currentTime(0.0), totalTime(0.0), customer(0) {}
