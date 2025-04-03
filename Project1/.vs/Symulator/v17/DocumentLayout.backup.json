@@ -7,6 +7,18 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{7A001C77-1A27-428B-848F-1D0DEE05C348}|Project1\\Project1.vcxproj|C:\\Users\\szmek\\Desktop\\Symulator_Zdarzen\\Simulator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A001C77-1A27-428B-848F-1D0DEE05C348}|Project1\\Project1.vcxproj|C:\\Users\\szmek\\Desktop\\Symulator_Zdarzen\\Event.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A001C77-1A27-428B-848F-1D0DEE05C348}|Project1\\Project1.vcxproj|C:\\Users\\szmek\\Desktop\\Symulator_Zdarzen\\Simulator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A001C77-1A27-428B-848F-1D0DEE05C348}|Project1\\Project1.vcxproj|C:\\Users\\szmek\\Desktop\\Symulator_Zdarzen\\Event_type.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A001C77-1A27-428B-848F-1D0DEE05C348}|Project1\\Project1.vcxproj|C:\\Users\\szmek\\Desktop\\Symulator_Zdarzen\\Event.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -16,8 +28,60 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Simulator.h",
+              "DocumentMoniker": "C:\\Users\\szmek\\Desktop\\Symulator_Zdarzen\\Simulator.h",
+              "RelativeDocumentMoniker": "..\\Simulator.h",
+              "ToolTip": "C:\\Users\\szmek\\Desktop\\Symulator_Zdarzen\\Simulator.h",
+              "RelativeToolTip": "..\\Simulator.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-03T11:20:41.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Event_type.h",
+              "DocumentMoniker": "C:\\Users\\szmek\\Desktop\\Symulator_Zdarzen\\Event_type.h",
+              "RelativeDocumentMoniker": "..\\Event_type.h",
+              "ToolTip": "C:\\Users\\szmek\\Desktop\\Symulator_Zdarzen\\Event_type.h",
+              "RelativeToolTip": "..\\Event_type.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-03T11:20:08.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Event.h",
+              "DocumentMoniker": "C:\\Users\\szmek\\Desktop\\Symulator_Zdarzen\\Event.h",
+              "RelativeDocumentMoniker": "..\\Event.h",
+              "ToolTip": "C:\\Users\\szmek\\Desktop\\Symulator_Zdarzen\\Event.h",
+              "RelativeToolTip": "..\\Event.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-03T11:19:40.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Event.cpp",
+              "DocumentMoniker": "C:\\Users\\szmek\\Desktop\\Symulator_Zdarzen\\Event.cpp",
+              "RelativeDocumentMoniker": "..\\Event.cpp",
+              "ToolTip": "C:\\Users\\szmek\\Desktop\\Symulator_Zdarzen\\Event.cpp",
+              "RelativeToolTip": "..\\Event.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-02T19:31:25.263Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -26,7 +90,7 @@
               "RelativeDocumentMoniker": "..\\Simulator.cpp",
               "ToolTip": "C:\\Users\\szmek\\Desktop\\Symulator_Zdarzen\\Simulator.cpp",
               "RelativeToolTip": "..\\Simulator.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAuwDwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-04-02T19:30:01.742Z",
               "EditorCaption": ""
@@ -37,9 +101,9 @@
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\Users\\szmek\\Desktop\\Symulator_Zdarzen\\main.cpp",
               "RelativeDocumentMoniker": "..\\main.cpp",
-              "ToolTip": "C:\\Users\\szmek\\Desktop\\Symulator_Zdarzen\\main.cpp*",
-              "RelativeToolTip": "..\\main.cpp*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAVAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\szmek\\Desktop\\Symulator_Zdarzen\\main.cpp",
+              "RelativeToolTip": "..\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwCQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-04-02T19:29:49.905Z",
               "EditorCaption": ""

@@ -3,7 +3,7 @@
 #include <cmath>
 
 
-const int symulacje =2000;
+const int symulacje =2000; //ilosc symulacji
 
 double odchylenie_standardowe(double tab[], double srednia)
 {
