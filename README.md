@@ -6,6 +6,8 @@ This project implements a **discrete event simulator**, modeling a simple queuei
 
 The simulator leverages an **event flow graph** structure, where each node represents a type of event, and edges indicate the progression of the customer through the system.
 
+![Discrete Event Simulator Diagram](images/DiscreteEventSimulator.drawio.png)
+
 ## Key Features
 - **Exponential Interarrival Times**: Customers arrive based on an exponential distribution with a mean of 1 unit of time.
 - **Uniform Service Times**:
